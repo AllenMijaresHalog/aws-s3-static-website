@@ -30,15 +30,15 @@ aws-s3-static-website/
 
 ## Implementation
 
-### 1. Create S3 Bucket
+ 1. Create S3 Bucket
 
-### 2. Upload Website Files
+ 2. Upload Website Files
 
-### 3. Enable Static Website Hosting
+ 3. Enable Static Website Hosting
 
-### 4. Configure Public Access
+ 4. Configure Public Access
 
-### 5. Create Bucket Policy
+ 5. Create Bucket Policy
 
 ## Lessons Learned
 
